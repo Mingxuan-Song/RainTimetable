@@ -1,0 +1,47 @@
+{
+  "dataset": "https://huggingface.co/datasets/TaoDerong/GreatPlains-Multisource-2000-2024",
+  "revision": "18f4efa2a0fcab0a2bd74203896e8c21d9f95ebb",
+  "license": "CC-BY-4.0",
+  "files": [
+    {
+      "file": "GreatPlains_CHIRPS_DailyPrecip_2000_2024.csv",
+      "url": "https://huggingface.co/datasets/TaoDerong/GreatPlains-Multisource-2000-2024/resolve/18f4efa2a0fcab0a2bd74203896e8c21d9f95ebb/GreatPlains_CHIRPS_DailyPrecip_2000_2024.csv",
+      "bytes": 781263,
+      "sha256": "7874ec439072cb2963e9b745071b40bbce598b106949a7bcbb5f0aa3003e453f",
+      "rows": 9131,
+      "http_status": 200,
+      "verified_at": "2026-09-30T14:36:22.125646+00:00",
+      "access": "cached"
+    },
+    {
+      "file": "GreatPlains_MOD09A1_NDVI_8day_2000_2024.csv",
+      "url": "https://huggingface.co/datasets/TaoDerong/GreatPlains-Multisource-2000-2024/resolve/18f4efa2a0fcab0a2bd74203896e8c21d9f95ebb/GreatPlains_MOD09A1_NDVI_8day_2000_2024.csv",
+      "bytes": 101064,
+      "sha256": "7f170da7621a5bf39c86ce5aab34a088c1d78ded7fa7b341d9098ae7a769b03a",
+      "rows": 1143,
+      "http_status": 200,
+      "verified_at": "2026-09-30T14:36:42.900820+00:00",
+      "access": "cached"
+    },
+    {
+      "file": "GreatPlains_ERA5L_SoilTempPET_Daily_2000_2024.csv",
+      "url": "https://huggingface.co/datasets/TaoDerong/GreatPlains-Multisource-2000-2024/resolve/18f4efa2a0fcab0a2bd74203896e8c21d9f95ebb/GreatPlains_ERA5L_SoilTempPET_Daily_2000_2024.csv",
+      "bytes": 1159675,
+      "sha256": "7ce1c44b8ebb76006ac53051fa078df3af6d8b4560c5b4f7f0940e21a28855d4",
+      "rows": 9131,
+      "http_status": 200,
+      "verified_at": "2026-09-30T14:37:03.519487+00:00",
+      "access": "cached"
+    },
+    {
+      "file": "README.md",
+      "url": "https://huggingface.co/datasets/TaoDerong/GreatPlains-Multisource-2000-2024/resolve/18f4efa2a0fcab0a2bd74203896e8c21d9f95ebb/README.md",
+      "bytes": 8134,
+      "sha256": "b553146e3b45ff7cf575e2c6fb0a195c10aa4ab65a2f122ae05b051ef0cc20df",
+      "rows": null,
+      "http_status": 200,
+      "verified_at": "2026-09-30T14:37:30.369724+00:00",
+      "access": "cached"
+    }
+  ]
+}
